@@ -1,5 +1,5 @@
 # loan_analysis_project
-A jupyter notebook project repo for Shodh AI Hiring that uses Deep Learning Prediction Analysis for Loan Analysis using Strategic Models and a concise dataset
+A jupyter notebook project repo for Loan Decison Making that uses Deep Learning Prediction Analysis for Loan Analysis using Strategic Models and a concise dataset
 Loan Risk Assessment and Value Optimization
 
 Project Overview
