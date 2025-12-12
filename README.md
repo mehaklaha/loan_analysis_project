@@ -44,7 +44,7 @@ Setup and Installation
 
 Clone the repository:
 
-git clone [YOUR_REPOSITORY_URL]
+git clone [https://github.com/mehaklaha/loan_analysis_project.git]
 
 
 Create and activate a virtual environment (recommended):
